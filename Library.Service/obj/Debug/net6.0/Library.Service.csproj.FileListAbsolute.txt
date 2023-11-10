@@ -1,0 +1,17 @@
+C:\Users\Burhan\source\repos\Library,App\Library.Service\bin\Debug\net6.0\Library.Service.deps.json
+C:\Users\Burhan\source\repos\Library,App\Library.Service\bin\Debug\net6.0\Library.Service.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Service\bin\Debug\net6.0\Library.Service.pdb
+C:\Users\Burhan\source\repos\Library,App\Library.Service\bin\Debug\net6.0\Library.Core.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Service\bin\Debug\net6.0\Library.Data.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Service\bin\Debug\net6.0\Library.Data.pdb
+C:\Users\Burhan\source\repos\Library,App\Library.Service\bin\Debug\net6.0\Library.Core.pdb
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.csproj.AssemblyReference.cache
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.AssemblyInfoInputs.cache
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.AssemblyInfo.cs
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.csproj.CopyComplete
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\refint\Library.Service.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\Library.Service.pdb
+C:\Users\Burhan\source\repos\Library,App\Library.Service\obj\Debug\net6.0\ref\Library.Service.dll

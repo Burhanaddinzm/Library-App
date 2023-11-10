@@ -1,0 +1,11 @@
+C:\Users\Burhan\source\repos\Library,App\Library.Core\bin\Debug\net6.0\Library.Core.deps.json
+C:\Users\Burhan\source\repos\Library,App\Library.Core\bin\Debug\net6.0\Library.Core.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Core\bin\Debug\net6.0\Library.Core.pdb
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\Library.Core.AssemblyInfo.cs
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\Library.Core.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\Library.Core.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\refint\Library.Core.dll
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\Library.Core.pdb
+C:\Users\Burhan\source\repos\Library,App\Library.Core\obj\Debug\net6.0\ref\Library.Core.dll
