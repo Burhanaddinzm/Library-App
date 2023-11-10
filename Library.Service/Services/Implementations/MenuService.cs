@@ -67,6 +67,7 @@ namespace Library.Service.Services.Implementations
 
             string result = await booksService.CreateAsync(bookTitle, bookDescription, pageCount, (BookGenre)enumIndex);
             await Console.Out.WriteLineAsync(result);
+            Console.ResetColor();
         }
 
         async Task UpdateBookAsync()
@@ -99,12 +100,14 @@ namespace Library.Service.Services.Implementations
 
             string result = await booksService.UpdateAsync(bookId, bookTitle, bookDescription, pageCount, (BookGenre)enumIndex);
             await Console.Out.WriteLineAsync(result);
+            Console.ResetColor();
         }
 
         async Task GetAllBooksAsync()
         {
             string result = await booksService.GetAllAsync();
             await Console.Out.WriteLineAsync(result);
+            Console.ResetColor();
         }
 
         async Task GetBookAsync()
@@ -113,6 +116,7 @@ namespace Library.Service.Services.Implementations
             string? bookId = Console.ReadLine();
             string result = await booksService.GetByIdAsync(bookId);
             await Console.Out.WriteLineAsync(result);
+            Console.ResetColor();
         }
 
         async Task RemoveBookAsync()
@@ -121,16 +125,19 @@ namespace Library.Service.Services.Implementations
             string? bookId = Console.ReadLine();
             string result = await booksService.RemoveAsync(bookId);
             await Console.Out.WriteLineAsync(result);
+            Console.ResetColor();
         }
 
         async Task GetMenuAsync()
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
             await Console.Out.WriteLineAsync("1.Add Book");
             await Console.Out.WriteLineAsync("2.Show Books");
             await Console.Out.WriteLineAsync("3.Show Book");
             await Console.Out.WriteLineAsync("4.Remove Book");
             await Console.Out.WriteLineAsync("5.Update Book");
             await Console.Out.WriteLineAsync("0.Close Application");
+            Console.ResetColor();
         }
     }
 }
