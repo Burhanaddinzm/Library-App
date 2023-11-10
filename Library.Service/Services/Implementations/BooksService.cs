@@ -56,7 +56,7 @@ namespace Library.Service.Services.Implementations
             {
                 await Console.Out.WriteLineAsync("Input Id:");
                 string? id = Console.ReadLine();
-                List<BooksModel> books = await booksRepository.GetAllAsync(x => x.Id == id);
+                List<BooksModel> books = await booksRepository.GetAllAsync(x => Convert.ToInt32(x.Id.Substring(2)) <= Convert.ToInt32(id.Substring(2)));
                 if (books.Count == 0)
                 {
                     await resultColorAsync(true);
